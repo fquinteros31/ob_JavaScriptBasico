@@ -1,0 +1,13 @@
+{
+  "name": "sesion1_ejer1",
+  "version": "1.0.0",
+  "description": "ejercicio sesión 1",
+  "main": "index.js",
+  "scripts": {
+    "saludo": "echo \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\" && exit 1",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francisco Quinteros",
+  "license": "ISC"
+}
